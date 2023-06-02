@@ -1,0 +1,11 @@
+C:\Users\marti\Documents\IFRO\2º  ano\Linguagem de Programação e PO2\1º semestre\2º bimestre\Aula3\Aula3\bin\Debug\Aula3.exe.config
+C:\Users\marti\Documents\IFRO\2º  ano\Linguagem de Programação e PO2\1º semestre\2º bimestre\Aula3\Aula3\bin\Debug\Aula3.exe
+C:\Users\marti\Documents\IFRO\2º  ano\Linguagem de Programação e PO2\1º semestre\2º bimestre\Aula3\Aula3\bin\Debug\Aula3.pdb
+C:\Users\marti\Documents\IFRO\2º  ano\Linguagem de Programação e PO2\1º semestre\2º bimestre\Aula3\Aula3\obj\Debug\Aula3.csproj.AssemblyReference.cache
+C:\Users\marti\Documents\IFRO\2º  ano\Linguagem de Programação e PO2\1º semestre\2º bimestre\Aula3\Aula3\obj\Debug\Aula3.csproj.SuggestedBindingRedirects.cache
+C:\Users\marti\Documents\IFRO\2º  ano\Linguagem de Programação e PO2\1º semestre\2º bimestre\Aula3\Aula3\obj\Debug\Aula3.Form1.resources
+C:\Users\marti\Documents\IFRO\2º  ano\Linguagem de Programação e PO2\1º semestre\2º bimestre\Aula3\Aula3\obj\Debug\Aula3.Properties.Resources.resources
+C:\Users\marti\Documents\IFRO\2º  ano\Linguagem de Programação e PO2\1º semestre\2º bimestre\Aula3\Aula3\obj\Debug\Aula3.csproj.GenerateResource.cache
+C:\Users\marti\Documents\IFRO\2º  ano\Linguagem de Programação e PO2\1º semestre\2º bimestre\Aula3\Aula3\obj\Debug\Aula3.csproj.CoreCompileInputs.cache
+C:\Users\marti\Documents\IFRO\2º  ano\Linguagem de Programação e PO2\1º semestre\2º bimestre\Aula3\Aula3\obj\Debug\Aula3.exe
+C:\Users\marti\Documents\IFRO\2º  ano\Linguagem de Programação e PO2\1º semestre\2º bimestre\Aula3\Aula3\obj\Debug\Aula3.pdb
