@@ -5,6 +5,7 @@ public static class Validacao
 {
     public static bool ValidaCpf(string cpf)
     {
+        //COMMIT TESTE PROVA
         cpf = cpf.Replace(",", "");
         cpf = cpf.Replace("-", "");
 
